@@ -34,7 +34,8 @@ version: '1.20.1'       // Your server version
 To start the bot, run the following command in your terminal:
 
 Bash
-node index.js
+```node index.js```
+
 ⚠️ Important Notes
 Server Permissions: Ensure the bot has permission to join. If you have a whitelist, remember to add the bot's username to it.
 
