@@ -1,23 +1,12 @@
-Minecraft Server Starter
-A simple and efficient script to launch and automatically manage your Minecraft Server.
+A simple script to start and automatically manage a Minecraft server.
 
-✨ Features
-Auto-restart: Automatically reboots the server if it crashes or stops.
+## ✨ Features
+* Automatic restart when the server crashes.
+* Optimized RAM settings.
+* Supports Windows platform.
 
-RAM Optimization: Pre-configured with optimized memory allocation flags.
-
-Cross-platform Support: Includes scripts for both Windows (.bat) and Linux (.sh).
-
-🚀 How to Use
-Download the start.bat (for Windows) file.
-
-Place the file into your server folder (the same folder containing your server.jar).
-
-Edit the script if you need to change the RAM allocation (default is set to 4GB).
-
-Run the file to start your server.
-
-📝 Requirements
-Ensure you have the correct version of Java installed for your specific Minecraft version.
-
-Make sure your server executable is named server.jar or update the filename in the script.
+## 🚀 How to use
+1. Download the `start.bat` file (for Windows) or download it.
+2. Place the file in your `server.jar` folder.
+3. Edit the file to change the amount of RAM (default is 4GB, you can adjust it to suit your machine).
+4. Run the file to start the server.
