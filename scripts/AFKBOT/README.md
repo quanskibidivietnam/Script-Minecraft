@@ -28,7 +28,6 @@ const botArgs = {
     port: 25565,            // Replace with your server port
     username: 'AFK_Bot',    // Bot's in-game name
     version: '1.20.1'       // Your server version
-};
 🏃 How to Run
 To start the bot, run the following command in your terminal:
 
